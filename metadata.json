@@ -1,0 +1,6 @@
+{
+  "name": "PEARL CARS NEXA",
+  "description": "Official showroom app for Pearl Cars NEXA Sasaram, Bihar. Explore NEXA cars, book test drives, view offers, generate ad posters, and connect with Relationship Manager Rahul Kumar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
